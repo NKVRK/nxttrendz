@@ -1,0 +1,28 @@
+.cart-summary-con {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-end;
+  width: 30%;
+}
+
+.cart-summary-total {
+  color: #616e7c;
+  font-size: 20px;
+}
+.cart-summary-span {
+  color: #171f46;
+  font-size: 25px;
+}
+.cart-summary-count {
+  color: #616e7c;
+  font-size: 15px;
+}
+.cart-summary-btn {
+  color: #ffffff;
+  font-size: 13px;
+  text-align: center;
+  border: 0px;
+  border-radius: 5px;
+  background-color: #0b69ff;
+  padding: 10px;
+}
