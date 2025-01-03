@@ -36,3 +36,12 @@
     font-size: 48px;
   }
 }
+
+
+.cart-remove-all-btn {
+  background-color: transparent;
+  border: 0px;
+  color: #0b69ff;
+  font-size: 15px;
+  align-self: flex-end;
+}
